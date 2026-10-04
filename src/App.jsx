@@ -1,8 +1,13 @@
 import React from 'react'
+import Register from './Register'
+
 
 const App = () => {
   return (
-    <div>Welcome to Drive Nepal</div>
+    <>
+    <div>Hello</div>
+    <Register/>
+    </>
   )
 }
 
